@@ -1,6 +1,8 @@
+peach
 apple
 apple
 watermelon
 watermelon
 apple
 peach
+watermelon
