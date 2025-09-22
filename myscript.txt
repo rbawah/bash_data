@@ -1,5 +1,4 @@
-#!/usr/bin/bash
 #!/usr/bin/python3
 
-echo "Hello, World"
-# print("hello from python")
+# echo "Hello, World"
+print("hello from python")

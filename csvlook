@@ -1,0 +1,6 @@
+Store,Date,Temperature,Fuel_Price,MarkDown1,MarkDown2,CPI,Unemployment,IsHoliday,Manager,Region
+1,2023-01-01,42.3,2.57,,,211.1,8.1,False,Alice,North
+1,2023-01-08,38.5,2.55,10382.9,6115.67,211.2,8.1,True,Bob,North
+1,2023-01-15,45.1,2.61,6074.12,254.39,211.3,8.1,False,Charlie,North
+2,2023-01-01,40.2,2.58,,,210.8,8.3,False,David,South
+2,2023-01-08,39.8,2.54,8500,4200,210.9,8.3,True,Eve,South
